@@ -1,0 +1,43 @@
+STUDENT PERFORMANCE REPORT
+----------------------------------------
+Student ID: 25/222
+Name: Sandra Mutegi
+Programme: MDS
+Math: 75
+English: 80
+Science: 70
+Average: 75.0
+Grade: B
+----------------------------------------
+Student ID: 25/224
+Name: Carlos Ndunda
+Programme: MDS
+Math: 90
+English: 85
+Science: 88
+Average: 87.67
+Grade: A
+----------------------------------------
+Student ID: 25/226
+Name: Paul Omboga
+Programme: MDA
+Math: 60
+English: 65
+Science: 58
+Average: 61.0
+Grade: C
+----------------------------------------
+Student ID: 25/228
+Name: Ruth Mwimali
+Programme: MDA
+Math: 95
+English: 92
+Science: 90
+Average: 92.33
+Grade: A
+========================================
+CLASS PERFORMANCE SUMMARY
+Number of students: 4
+Highest average: Ruth Mwimali (92.33)
+Lowest average: Paul Omboga (61.0)
+Overall class average: 79.0
